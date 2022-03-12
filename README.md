@@ -1,6 +1,6 @@
 # note-taker
 
-link to application: https://immense-earth-30831.herokuapp.com/
+link to application: https://nameless-bayou-68541.herokuapp.com/
 
 ## Description
 
@@ -16,20 +16,14 @@ This is a full-stack web application that allows the user to create, save, and d
 
 ## User Story
 
-```
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
-
 
 Image of web application homepage and note screen:
 ![image](https://user-images.githubusercontent.com/89957990/151926360-dc9e2aaf-6b43-4e67-8c00-12d9ee098df5.png)
-![image](https://user-images.githubusercontent.com/89957990/151926462-53c3681c-fdb0-4f6d-908e-7287c14631ed.png)
+![image](https://user-images.githubusercontent.com/89957990/158038710-f4166753-89e7-4693-b84e-dff67e441f12.png)
 
 
 Link to showcase video:
-(Place Video link Here)
+https://drive.google.com/file/d/1UZ29CqjpBEKeUYmoJmKt3VgFnpQzFFwL/view
 
 ## Questions
 https://github.com/Chrisle206
